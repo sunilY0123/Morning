@@ -1,4 +1,5 @@
 var x=10;
+Var p=0;
 let y=20;
 var z='hello';
 //  console.log(z);
